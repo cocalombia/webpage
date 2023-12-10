@@ -7,28 +7,34 @@ const ProductCollectionGrid = (props) => {
   return (
     <div className={styles.root}>
       <ProductCollection
-        image={'/products/endless_p10.jpg'}
-        title={'P10'}
+        image={'/products/icon_caqueta.png'}
+        title={'Piedemonte caqueteño'}
         text={'descubreme'}
-        link={'/product/P10'}
+        link={'/product/caqueta'}
       />
       <ProductCollection
-        image={'/products/endless_p14.jpg'}
-        title={'P14'}
+        image={'/products/icon_maziso.png'}
+        title={'Tierradentro y maziso colombiano'}
         text={'descubreme'}
-        link={'/product/P14'}
+        link={'/product/maziso'}
       />
       <ProductCollection
-        image={'/products/endless_p17.jpg'}
-        title={'P17'}
+        image={'/products/icon_amazonas.png'}
+        title={'Amazonas'}
         text={'descubreme'}
-        link={'/product/P17'}
+        link={'/product/amazonas'}
       />
       <ProductCollection
-        image={'/products/endless_p28.jpg'}
-        title={'P28'}
+        image={'/products/icon_sierra.png'}
+        title={'Sierra Nevada'}
         text={'descubreme'}
-        link={'/product/P28'}
+        link={'/product/sierra'}
+      />
+      <ProductCollection
+        image={'/products/icon_soata.png'}
+        title={'Soata Boyaca'}
+        text={'descubreme'}
+        link={'/product/soata'}
       />
     </div>
   );

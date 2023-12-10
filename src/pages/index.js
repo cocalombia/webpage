@@ -30,8 +30,8 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'Poinsettias de Colombia'}
-        subtitle={'cultivamos vida para tu navidad'}
+        title={'Cocalombia'}
+        subtitle={'delicioso poder ancestral'}
         // ctaText={'catalogo'}
         // ctaAction={goToShop}
       />
@@ -53,7 +53,7 @@ const IndexPage = () => {
       {/* Collection Container */}
       <div className={styles.collectionContainer}>
         <Container size={'large'}>
-          <Title name={'Un tamaño para cada espacio'} />
+          <Title name={'Un sabor para cada momento y region'} />
           <ProductCollectionGrid />
         </Container>
       </div>
@@ -104,9 +104,9 @@ const IndexPage = () => {
       {/* Quote */}
       <Quote
         bgColor={'var(--standard-light-grey)'}
-        title={'Sobre Poinsettias de Colombia'}
+        title={'Sobre Cocalombia'}
         quote={
-          '“Somos una empresa con más de 30 años de experiencia. Creada por biólogos amantes de las plantas, en busca de una alternativa natural para la decoración navideña.”'
+          '“Buscamos reivindicar los ingredientes y plantas medicinales de nuestra tierra.”'
         }
       />
 
