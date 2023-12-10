@@ -1,0 +1,86 @@
+[
+    {
+        "productCode": "MJUM8066-GYDZ",
+        "name": "Lambswool Crew Neck Jumper",
+        "vendor": "Sunspel",
+        "price": 75,
+        "alt": "lambswool crew neck jumper",
+        "image": "/products/pdp1.jpeg",
+        "colorOptions": [
+            {"color": "#000000", "title": "Anthracite Melange"},
+            {"color": "#4D34AE", "title": "Pale Purple"},
+            {"color": "#488266", "title": "Green Moss"}
+        ],
+        "sizeOptions": ["xs", "s", "m", "l", "xl"],
+        "wishlist": true,
+        "tags": ["sample"],
+        "gallery": [
+            {"image": "/products/pdp1.jpeg", "alt": "pdp description 1"},
+            {"image": "/products/pdp2.jpeg", "alt": "pdp description 2"},
+            {"image": "/products/pdp3.jpeg", "alt": "pdp description 3"},
+            {"image": "/products/pdp4.jpeg", "alt": "pdp description 4"}
+        ],
+        "description": "This soft lambswool jumper is knitted in Scotland, using yarn from one of the world's oldest spinners based in Fife. Once knitted, the garment is washed in Scottish spring water to make it beautifully soft.",
+        "care": "none"
+    },
+    {
+        "productCode": "P10",
+        "name": "Poinsettia Pequeña",
+        "vendor": "Poinsettias de Colombia",
+        "price": 15000,
+        "alt": "poinsettia pequeña roja referencia p10",
+        "image": "/products/endless_p10.jpg",
+        "tags": ["poinsettia", "roja", "P10"],
+        "gallery": [
+            {"image": "/products/endless_p10.jpg", "alt": "poinsettia pequeña roja referencia p10"}
+        ],
+        "description": "Nuestra planta más pequeña, perfecta para arreglos de centro de mesa, mesitas de café, pesebres, ¡e incluso para decorar tu árbol de navidad!",
+        "care": "Riega la tierra con un pocillo tintero de agua cada dos o tres días o cuando se sienta seca al tacto, evita mojar las hojas. Ubícala en interiores, con buena luz pero sin sol directo",
+        "characteristics": "planta de 25 cm de altura, con 2 a 3 inflorescencias"
+    },
+    {
+        "productCode": "P14",
+        "name": "Poinsettia Mediana",
+        "vendor": "Poinsettias de Colombia",
+        "price": 20000,
+        "alt": "poinsettia mediana roja referencia p14",
+        "image": "/products/endless_p14.jpg",
+        "tags": ["poinsettia", "roja", "P14"],
+        "gallery": [
+            {"image": "/products/endless_p14.jpg", "alt": "poinsettia mediana roja referencia p14"}
+        ],
+        "description": "Nuestra planta más popular y versátil, perfecta para decorar todos los espacios, como centros de mesa, escritorios, ventanillas y vitrinas de negocios.",
+        "care": "Riega la tierra con un pocillo tintero de agua cada dos o tres días o cuando se sienta seca al tacto, evita mojar las hojas. Ubícala en interiores, con buena luz pero sin sol directo",
+        "characteristics": "planta de 35 cm de altura, con 4 a 6 inflorescencias"
+    },
+    {
+        "productCode": "P17",
+        "name": "Poinsettia Grande",
+        "vendor": "Poinsettias de Colombia",
+        "price": 35000,
+        "alt": "poinsettia grande roja referencia p17",
+        "image": "/products/endless_p17.jpg",
+        "tags": ["poinsettia", "roja", "P17"],
+        "gallery": [
+            {"image": "/products/endless_p17.jpg", "alt": "poinsettia mediana roja referencia p17"}
+        ],
+        "description": "Una opción para espacios más grandes. Perfecta para decorar puertas, vestibulos, y esquinas olvidadas de nuestras salas y comedores. ",
+        "care": "Riega la tierra con un mug de agua día de por medio, evita mojar las hojas. Ubícala en interiores, con buena luz pero sin sol directo",
+        "characteristics": "planta de 60 cm de altura, con 6 a 8 inflorescencias"
+    },
+    {
+        "productCode": "P28",
+        "name": "Poinsettia Extra Grande",
+        "vendor": "Poinsettias de Colombia",
+        "price": 100000,
+        "alt": "poinsettia extra grande roja p28",
+        "image": "/products/endless_p28.jpg",
+        "tags": ["poinsettia", "roja", "P28"],
+        "gallery": [
+            {"image": "/products/endless_p28.jpg", "alt": "poinsettia extra grande roja p28"}
+        ],
+        "description": "Nuestra planta más grande y majestuosa. Una oda a la naturaleza perfecta para decor grandes espacios como recepciones y lobbies de edificios.",
+        "care": "Riega la tierra con 1.5 litros de agua cada dos días, evita mojar las hojas. Ubícala en interiores, con buena luz pero sin sol directo",
+        "characteristics": "planta de 90 cm de altura, con 15 a 30 inflorescencias"
+    }
+  ]

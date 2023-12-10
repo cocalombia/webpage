@@ -1,0 +1,110 @@
+{
+  "currencyList": [
+    { "value": "COP", "label": "Colombia (COP $)" }
+  ],
+  "languageList": [
+    { "value": "spanish", "label": "Español" }
+  ],
+  "social": {
+    "whatsapp": "https://wa.me/573132098050",
+    "facebook": "https://www.facebook.com/poinsettiasdecolombia",
+    "instagram": "https://www.instagram.com/poinsettiasdecolombia/"
+  },
+  "paymentOptions": {
+    "visa": false,
+    "mastercard": false,
+    "amex": false
+  },
+  "footerLinks": [
+    {
+      "subTitle": "Información",
+      "links": [
+        {
+          "text": "Sobre Nosotros",
+          "link": "/about"
+        },
+        {
+          "text": "Cuidados de las Plantas",
+          "link": "/blog/care"
+        }
+      ]
+    },
+    {
+      "subTitle": "Soporte",
+      "links": [
+        {
+          "text": "Contáctenos",
+          "link": "/support#contact"
+        },
+        {
+          "text": "Preguntas Frecuentes",
+          "link": "/inConstruction"
+        }
+      ]
+    }
+  ],
+  "headerLinks": [
+    {
+      "menuLabel": "Catalogo",
+      "menuLink": "/shop",
+      "category": [
+        {
+          "categoryLabel": "Poinsettias",
+          "submenu": [
+            {
+              "menuLabel": "Pequeña",
+              "menuLink": "/product/P10"
+            },
+            {
+              "menuLabel": "Mediana",
+              "menuLink": "/product/P14"
+            },
+            {
+              "menuLabel": "Grande",
+              "menuLink": "/product/P17"
+            },
+            {
+              "menuLabel": "Extra Grande",
+              "menuLink": "/product/P28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "menuLabel": "Cuidados",
+      "menuLink": "/blog/care",
+      "category": null
+    },
+    {
+      "menuLabel": "Sobre Nosotros",
+      "menuLink": "/about",
+      "category": null
+    },
+        {
+      "menuLabel": "WhatsApp",
+      "menuLink": "https://wa.me/573132098050",
+      "category": null
+    }
+  ],
+  "filters": [
+    {
+      "category": "tamaño",
+      "items": [
+        { "name": "S", "value": true },
+        { "name": "M", "value": true },
+        { "name": "L", "value": true },
+        { "name": "XL", "value": true }
+      ]
+    },
+
+    {
+      "category": "Colór",
+      "items": [
+        { "name": "Rojo", "value": true },
+        { "name": "Amarillo", "value": false },
+        { "name": "Salmon", "value": false }
+      ]
+    }
+  ]
+}
